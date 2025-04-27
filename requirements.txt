@@ -1,0 +1,15 @@
+# Core requirements
+tabulate           # For pretty-printing tables in CLI (optional but recommended)
+
+# Testing
+pytest             # Popular testing framework
+pytest-cov         # Test coverage reporting
+
+# Security
+bcrypt             # For secure password/PIN hashing (recommended over hashlib for real applications)
+
+# Type hints (optional, for static analysis)
+mypy
+
+# If you use advanced data structures or graph algorithms (optional)
+networkx           # For graph-based fraud detection (optional, advanced feature)

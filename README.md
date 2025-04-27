@@ -111,8 +111,6 @@ python -m unittest discover tests
 
 text
 
----
-
 ## 🌟 Why This Project?
 
 This project demonstrates:
@@ -127,3 +125,4 @@ This project demonstrates:
 
 Sharmila Padhy
 [GitHub](https://github.com/sharmilapadhy23) | [LinkedIn](https://www.linkedin.com/in/sharmila-padhy-60a82b251/)
+
